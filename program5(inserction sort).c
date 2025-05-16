@@ -24,3 +24,14 @@ int main(){
     printf("\n");
     return 0;
 }
+OUTPUT:-
+    Enter number of elements: 7
+Enter the elements:
+66
+25
+3
+6
+99
+12221
+32
+Sorted array: 3 6 25 32 66 99 12221
